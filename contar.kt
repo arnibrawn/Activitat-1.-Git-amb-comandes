@@ -1,5 +1,5 @@
 fun main() {
-    for (i in 0..100) {
+    for (i in 1..100) {
         println(i)
     }
 }
